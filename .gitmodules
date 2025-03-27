@@ -1,0 +1,3 @@
+[submodule "GandRL_for_NPS"]
+	path = GandRL_for_NPS
+	url = git@github.com:LotFullKa/GandRL.git
