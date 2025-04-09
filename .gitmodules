@@ -1,3 +1,6 @@
 [submodule "GandRL_for_NPS"]
 	path = GandRL_for_NPS
 	url = git@github.com:LotFullKa/GandRL.git
+[submodule "lab_work_3"]
+	path = lab_work_3
+	url = ./lab_work_3
