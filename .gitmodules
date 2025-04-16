@@ -3,4 +3,7 @@
 	url = git@github.com:LotFullKa/GandRL.git
 [submodule "lab_work_3"]
 	path = lab_work_3
-	url = ./lab_work_3
+	url = git@github.com:LotFullKa/ConsensusShedule.git
+[submodule "LLM_Distill_Research"]
+	path = LLM_Distill_Research
+	url = git@github.com:LotFullKa/LLM_Distill_Research.git
